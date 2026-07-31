@@ -1,4 +1,4 @@
-# Herding Behavior Analysis Using State-Space Model
+# Herding Behavior Analysis 
 
 ## Overview
 
