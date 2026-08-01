@@ -4,7 +4,7 @@ import pandas as pd
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
-t = 'C:/Users/Chau/OneDrive - THPT Nguyễn Công Trứ/Attachments/TC định lượng/ds_hose23112025.csv'
+t = 'path to your dataset.csv'
 hose = pd.read_csv(t)
 print(hose)
 print(hose.info())
